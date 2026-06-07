@@ -67,8 +67,6 @@ I'm a Full-Stack Developer and DevOps enthusiast currently pursuing my **MSc in 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAdnan3071)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnan160320733071@gmail.com)
 
----
-
 <p align="center">
   <i>"Building at the intersection of DevOps, Full-Stack, and AI — one commit at a time."</i>
 </p>
