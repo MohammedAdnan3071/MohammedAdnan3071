@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammed Adnan 👋
 
-### DevOps & Cloud-Native Enthusiast | Full-Stack Software Developer | AI/ML Explorer
+### Full-Stack Software Developer | DevOps & Cloud-Native Enthusiast | AI/ML Explorer
 
 📍 Kaiserslautern, Germany &nbsp;|&nbsp; 📧 adnan160320733071@gmail.com &nbsp;|&nbsp; 🎓 MSc CS @ RPTU Kaiserslautern
 
