@@ -2,7 +2,7 @@
 
 ### Full-Stack Software Developer | DevOps & Cloud-Native Enthusiast | AI/ML Explorer
 
-📍 Kaiserslautern, Germany &nbsp;|&nbsp; 📧 adnan160320733071@gmail.com &nbsp;|&nbsp; 🎓 MSc CS @ RPTU Kaiserslautern
+📍 Kaiserslautern, Germany&nbsp;&nbsp;|&nbsp; 🎓 MSc CS @ RPTU Kaiserslautern
 
 ---
 
